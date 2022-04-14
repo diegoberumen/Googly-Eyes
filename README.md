@@ -1,13 +1,13 @@
 # Googly-Eyes
 
-Description:
+## Description:
 Uses the location of the cursos on the webpage to dynamically manipulate the DIVs and move them accordinly to simulate eyes movement following the cursor.
 
 
-How to Run:
+## How to Run:
 Load webpage and move cursor around.
 
-Roadmap:
+## Roadmap:
 Implementation of buttons to change eyes color.
 
 
