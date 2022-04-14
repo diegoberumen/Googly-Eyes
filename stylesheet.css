@@ -44,6 +44,8 @@ body {
 #brand {
   color: rgb(204, 6, 6);
   font-family: 'Space Mono', monospace;
+  font-style: bold;
+  font-size: xx-large;
 }
 
 .Navigation {
